@@ -1,8 +1,8 @@
-Jogo de maior ou menor feito em Ruby
-Foi usado para aprender o básico do Ruby, como: <br/>
-  for
-  if
-  def (função)
-  loop do
-  case when (Escolha)
-  Dentre outras coisas
+Jogo de maior ou menor feito em Ruby <br />
+Foi usado para aprender o básico do Ruby, como: <br />
+  for <br />
+  if <br />
+  def (função) <br />
+  loop do <br />
+  case when (Escolha) <br />
+  Dentre outras coisas <br />
